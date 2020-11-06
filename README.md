@@ -1,0 +1,1 @@
+Foi utilizado a biblioteca http para buscar dados da API.
